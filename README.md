@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Page**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** **TailwindCSS**
 
 - 📫 How to reach me **wazeeepro@gmail.com**
 
