@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wazeeeeee</h1>
 <h3 align="center">A passionate frontend & backend developer from France</h3>
 
-- 🌱 I’m currently learning **JavaScript, Angular, TailwindCSS**
+- 🌱 I’m currently learning **Angular**
 
 - 🔭 I’m currently working on **My Pages**
 
