@@ -21,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wazeeeeee&show_icons=true&theme=dark&locale=en" alt="wazeeeeee" /></p>
 
-![Snake animation](https://raw.githubusercontent.com/wazeeeeee/wazeeeeee/output/github-contribution-grid-snake-dark.svg)
