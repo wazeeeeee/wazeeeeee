@@ -23,3 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wazeeeeee&show_icons=true&theme=dark&locale=en" alt="wazeeeeee" /></p>
 
+![image](https://www.codewars.com/users/wazeeeeee/badges/large)
