@@ -1,6 +1,5 @@
 ### 👋 Hi,i'am a backend and Frontend developer
 <p>
-    <img src='https://img.shields.io/badge/Mail-Renaud.Baussart%40proton.me-purple'/>
     <a href='https://www.linkedin.com/in/matheo-lefebvre-b48b032ab/'> <img src='https://img.shields.io/badge/linkedin-blue'/></a> 
     <a href='https://x.com/math_lefb'><img src='https://img.shields.io/badge/Twitter%20%2F%20X-grey'/></a>
 </p>
